@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Bedtime in the Castle</title>
+<link>https://daldaman.github.io/noas-world-feed/</link>
+<language>en-us</language>
+<description>Gentle bedtime stories from a small kingdom by the sea.</description>
+<itunes:author>The Royal Storyteller</itunes:author>
+<itunes:image href="https://daldaman.github.io/noas-world-feed/artwork.png"/>
+<itunes:explicit>false</itunes:explicit>
+<itunes:block>Yes</itunes:block>
+<item>
+<title>A Quiet Day by the Shimmering Sea</title>
+<guid isPermaLink="false">ep-0bc8a37499659905</guid>
+<pubDate>Tue, 07 Jul 2026 23:12:56 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-0bc8a37499659905/episode.mp3" length="2935999" type="audio/mpeg"/>
+<itunes:duration>4:05</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+</channel>
+</rss>
