@@ -8,5 +8,15 @@
     "length_bytes": 2935999,
     "duration_seconds": 244.609184,
     "published_at": "2026-07-07T23:12:56.163034+00:00"
+  },
+  {
+    "guid": "ep-7f7b4001722c5808",
+    "date": "2026-07-08",
+    "title": "The Berry Bramble Muddle",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-7f7b4001722c5808/episode.mp3",
+    "length_bytes": 2937566,
+    "duration_seconds": 244.73,
+    "published_at": "2026-07-08T19:17:22.939526+00:00"
   }
 ]
