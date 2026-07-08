@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Berry Bramble Muddle</title>
+<guid isPermaLink="false">ep-7f7b4001722c5808</guid>
+<pubDate>Wed, 08 Jul 2026 19:17:22 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-7f7b4001722c5808/episode.mp3" length="2937566" type="audio/mpeg"/>
+<itunes:duration>4:05</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>A Quiet Day by the Shimmering Sea</title>
 <guid isPermaLink="false">ep-0bc8a37499659905</guid>
 <pubDate>Tue, 07 Jul 2026 23:12:56 +0000</pubDate>
