@@ -18,5 +18,15 @@
     "length_bytes": 2937566,
     "duration_seconds": 244.73,
     "published_at": "2026-07-08T19:17:22.939526+00:00"
+  },
+  {
+    "guid": "ep-45db6b8cd98a1dd5",
+    "date": "2026-07-10",
+    "title": "The Song from the Rocks",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-45db6b8cd98a1dd5/episode.mp3",
+    "length_bytes": 2938193,
+    "duration_seconds": 244.78,
+    "published_at": "2026-07-10T14:29:46.988871+00:00"
   }
 ]
