@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Soft Voice Lesson</title>
+<guid isPermaLink="false">ep-917b2fe2cac3e11d</guid>
+<pubDate>Mon, 13 Jul 2026 23:56:38 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-917b2fe2cac3e11d/episode.mp3" length="3040071" type="audio/mpeg"/>
+<itunes:duration>4:13</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Only Beach in the World</title>
 <guid isPermaLink="false">ep-34a37195a90bd3f7</guid>
 <pubDate>Mon, 13 Jul 2026 00:07:46 +0000</pubDate>
