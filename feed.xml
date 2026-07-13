@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Only Beach in the World</title>
+<guid isPermaLink="false">ep-34a37195a90bd3f7</guid>
+<pubDate>Mon, 13 Jul 2026 00:07:46 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-34a37195a90bd3f7/episode.mp3" length="2852929" type="audio/mpeg"/>
+<itunes:duration>3:58</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Song from the Rocks</title>
 <guid isPermaLink="false">ep-45db6b8cd98a1dd5</guid>
 <pubDate>Fri, 10 Jul 2026 14:29:46 +0000</pubDate>
