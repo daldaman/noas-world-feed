@@ -38,5 +38,15 @@
     "length_bytes": 2852929,
     "duration_seconds": 237.68,
     "published_at": "2026-07-13T00:07:46.117600+00:00"
+  },
+  {
+    "guid": "ep-917b2fe2cac3e11d",
+    "date": "2026-07-13",
+    "title": "The Soft Voice Lesson",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-917b2fe2cac3e11d/episode.mp3",
+    "length_bytes": 3040071,
+    "duration_seconds": 253.28,
+    "published_at": "2026-07-13T23:56:38.806604+00:00"
   }
 ]
