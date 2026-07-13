@@ -28,5 +28,15 @@
     "length_bytes": 2938193,
     "duration_seconds": 244.78,
     "published_at": "2026-07-10T14:29:46.988871+00:00"
+  },
+  {
+    "guid": "ep-34a37195a90bd3f7",
+    "date": "2026-07-12",
+    "title": "The Only Beach in the World",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-34a37195a90bd3f7/episode.mp3",
+    "length_bytes": 2852929,
+    "duration_seconds": 237.68,
+    "published_at": "2026-07-13T00:07:46.117600+00:00"
   }
 ]
