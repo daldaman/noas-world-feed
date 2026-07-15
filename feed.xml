@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Ship in the Meadow</title>
+<guid isPermaLink="false">ep-7ce29c2fc78e408b</guid>
+<pubDate>Wed, 15 Jul 2026 23:55:42 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-7ce29c2fc78e408b/episode.mp3" length="3149471" type="audio/mpeg"/>
+<itunes:duration>4:22</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Soft Voice Lesson</title>
 <guid isPermaLink="false">ep-917b2fe2cac3e11d</guid>
 <pubDate>Mon, 13 Jul 2026 23:56:38 +0000</pubDate>
