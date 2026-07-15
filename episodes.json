@@ -48,5 +48,15 @@
     "length_bytes": 3040071,
     "duration_seconds": 253.28,
     "published_at": "2026-07-13T23:56:38.806604+00:00"
+  },
+  {
+    "guid": "ep-7ce29c2fc78e408b",
+    "date": "2026-07-15",
+    "title": "The Ship in the Meadow",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-7ce29c2fc78e408b/episode.mp3",
+    "length_bytes": 3149471,
+    "duration_seconds": 262.38,
+    "published_at": "2026-07-15T23:55:42.166347+00:00"
   }
 ]
