@@ -58,5 +58,15 @@
     "length_bytes": 3149471,
     "duration_seconds": 262.38,
     "published_at": "2026-07-15T23:55:42.166347+00:00"
+  },
+  {
+    "guid": "ep-23f45fca2e442745",
+    "date": "2026-07-16",
+    "title": "The First Star Trip",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-23f45fca2e442745/episode.mp3",
+    "length_bytes": 3453537,
+    "duration_seconds": 287.73,
+    "published_at": "2026-07-17T19:45:27.721691+00:00"
   }
 ]
