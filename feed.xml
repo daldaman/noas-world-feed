@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The First Star Trip</title>
+<guid isPermaLink="false">ep-23f45fca2e442745</guid>
+<pubDate>Fri, 17 Jul 2026 19:45:27 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-23f45fca2e442745/episode.mp3" length="3453537" type="audio/mpeg"/>
+<itunes:duration>4:48</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Ship in the Meadow</title>
 <guid isPermaLink="false">ep-7ce29c2fc78e408b</guid>
 <pubDate>Wed, 15 Jul 2026 23:55:42 +0000</pubDate>
