@@ -68,5 +68,15 @@
     "length_bytes": 3453537,
     "duration_seconds": 287.73,
     "published_at": "2026-07-17T19:45:27.721691+00:00"
+  },
+  {
+    "guid": "ep-8047332ae9e615db",
+    "date": "2026-07-18",
+    "title": "The Shadow's Secret",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-8047332ae9e615db/episode.mp3",
+    "length_bytes": 3014993,
+    "duration_seconds": 251.18,
+    "published_at": "2026-07-19T00:46:22.960441+00:00"
   }
 ]
