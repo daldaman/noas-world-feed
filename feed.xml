@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Shadow&apos;s Secret</title>
+<guid isPermaLink="false">ep-8047332ae9e615db</guid>
+<pubDate>Sun, 19 Jul 2026 00:46:22 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-8047332ae9e615db/episode.mp3" length="3014993" type="audio/mpeg"/>
+<itunes:duration>4:11</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The First Star Trip</title>
 <guid isPermaLink="false">ep-23f45fca2e442745</guid>
 <pubDate>Fri, 17 Jul 2026 19:45:27 +0000</pubDate>
