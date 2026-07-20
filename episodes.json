@@ -78,5 +78,15 @@
     "length_bytes": 3014993,
     "duration_seconds": 251.18,
     "published_at": "2026-07-19T00:46:22.960441+00:00"
+  },
+  {
+    "guid": "ep-bd94880e88e05da2",
+    "date": "2026-07-19",
+    "title": "The Golden Hills",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-bd94880e88e05da2/episode.mp3",
+    "length_bytes": 2941641,
+    "duration_seconds": 245.08,
+    "published_at": "2026-07-20T01:22:15.296352+00:00"
   }
 ]
