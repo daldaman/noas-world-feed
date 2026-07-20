@@ -88,5 +88,15 @@
     "length_bytes": 2941641,
     "duration_seconds": 245.08,
     "published_at": "2026-07-20T01:50:26.010628+00:00"
+  },
+  {
+    "guid": "ep-366ec2d59e3827c9",
+    "date": "2026-07-20",
+    "title": "Where the Red Flowers Sing",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-366ec2d59e3827c9/episode.mp3",
+    "length_bytes": 3135052,
+    "duration_seconds": 261.18,
+    "published_at": "2026-07-20T23:43:50.012924+00:00"
   }
 ]
