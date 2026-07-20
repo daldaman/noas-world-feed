@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Golden Hills</title>
+<guid isPermaLink="false">ep-bd94880e88e05da2</guid>
+<pubDate>Mon, 20 Jul 2026 01:50:26 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-bd94880e88e05da2/episode.mp3" length="2941641" type="audio/mpeg"/>
+<itunes:duration>4:05</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Shadow&apos;s Secret</title>
 <guid isPermaLink="false">ep-8047332ae9e615db</guid>
 <pubDate>Sun, 19 Jul 2026 00:46:22 +0000</pubDate>
