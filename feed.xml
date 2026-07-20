@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Where the Red Flowers Sing</title>
+<guid isPermaLink="false">ep-366ec2d59e3827c9</guid>
+<pubDate>Mon, 20 Jul 2026 23:43:50 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-366ec2d59e3827c9/episode.mp3" length="3135052" type="audio/mpeg"/>
+<itunes:duration>4:21</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Golden Hills</title>
 <guid isPermaLink="false">ep-bd94880e88e05da2</guid>
 <pubDate>Mon, 20 Jul 2026 01:50:26 +0000</pubDate>
