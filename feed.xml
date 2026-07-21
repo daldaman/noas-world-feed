@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Streams That Shine</title>
+<guid isPermaLink="false">ep-843baba3ce8920dd</guid>
+<pubDate>Tue, 21 Jul 2026 22:26:54 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-843baba3ce8920dd/episode.mp3" length="3331911" type="audio/mpeg"/>
+<itunes:duration>4:38</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>Where the Red Flowers Sing</title>
 <guid isPermaLink="false">ep-366ec2d59e3827c9</guid>
 <pubDate>Mon, 20 Jul 2026 23:43:50 +0000</pubDate>
