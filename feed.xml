@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Place Where Starlight Begins</title>
+<guid isPermaLink="false">ep-7fcdd56595d5bac7</guid>
+<pubDate>Wed, 22 Jul 2026 21:33:42 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-7fcdd56595d5bac7/episode.mp3" length="6214889" type="audio/mpeg"/>
+<itunes:duration>8:38</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Streams That Shine</title>
 <guid isPermaLink="false">ep-843baba3ce8920dd</guid>
 <pubDate>Tue, 21 Jul 2026 22:26:54 +0000</pubDate>
