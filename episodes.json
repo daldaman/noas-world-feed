@@ -128,5 +128,15 @@
     "length_bytes": 3450716,
     "duration_seconds": 287.48,
     "published_at": "2026-07-27T00:03:29.262101+00:00"
+  },
+  {
+    "guid": "ep-04d6af96d968f897",
+    "date": "2026-07-27",
+    "title": "The Humming Trail",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-04d6af96d968f897/episode.mp3",
+    "length_bytes": 3181759,
+    "duration_seconds": 265.08,
+    "published_at": "2026-07-27T22:40:47.875093+00:00"
   }
 ]
