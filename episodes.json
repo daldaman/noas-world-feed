@@ -118,5 +118,15 @@
     "length_bytes": 6214889,
     "duration_seconds": 517.83,
     "published_at": "2026-07-22T21:33:42.981591+00:00"
+  },
+  {
+    "guid": "ep-d5eb84965e0da652",
+    "date": "2026-07-26",
+    "title": "The World of Friendly Avocados",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-d5eb84965e0da652/episode.mp3",
+    "length_bytes": 3450716,
+    "duration_seconds": 287.48,
+    "published_at": "2026-07-27T00:03:29.262101+00:00"
   }
 ]
