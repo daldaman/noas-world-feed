@@ -138,5 +138,15 @@
     "length_bytes": 3181759,
     "duration_seconds": 265.08,
     "published_at": "2026-07-27T22:40:47.875093+00:00"
+  },
+  {
+    "guid": "ep-f369282434c10698",
+    "date": "2026-07-30",
+    "title": "The Gem Comes Home",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-f369282434c10698/episode.mp3",
+    "length_bytes": 3400247,
+    "duration_seconds": 283.28,
+    "published_at": "2026-07-30T22:55:48.807956+00:00"
   }
 ]
