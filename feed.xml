@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Gem Comes Home</title>
+<guid isPermaLink="false">ep-f369282434c10698</guid>
+<pubDate>Thu, 30 Jul 2026 22:55:48 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-f369282434c10698/episode.mp3" length="3400247" type="audio/mpeg"/>
+<itunes:duration>4:43</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Humming Trail</title>
 <guid isPermaLink="false">ep-04d6af96d968f897</guid>
 <pubDate>Mon, 27 Jul 2026 22:40:47 +0000</pubDate>
