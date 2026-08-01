@@ -148,5 +148,15 @@
     "length_bytes": 3400247,
     "duration_seconds": 283.28,
     "published_at": "2026-07-30T22:55:48.807956+00:00"
+  },
+  {
+    "guid": "ep-ca1419fb751c09f0",
+    "date": "2026-07-31",
+    "title": "The Sticky Cloud Adventure",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-ca1419fb751c09f0/episode.mp3",
+    "length_bytes": 3304325,
+    "duration_seconds": 275.28,
+    "published_at": "2026-08-01T00:31:31.833703+00:00"
   }
 ]
