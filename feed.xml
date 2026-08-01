@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Sticky Cloud Adventure</title>
+<guid isPermaLink="false">ep-ca1419fb751c09f0</guid>
+<pubDate>Sat, 01 Aug 2026 00:31:31 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-ca1419fb751c09f0/episode.mp3" length="3304325" type="audio/mpeg"/>
+<itunes:duration>4:35</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Gem Comes Home</title>
 <guid isPermaLink="false">ep-f369282434c10698</guid>
 <pubDate>Thu, 30 Jul 2026 22:55:48 +0000</pubDate>
