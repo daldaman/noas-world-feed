@@ -158,5 +158,15 @@
     "length_bytes": 3304325,
     "duration_seconds": 275.28,
     "published_at": "2026-08-01T00:31:31.833703+00:00"
+  },
+  {
+    "guid": "ep-dd456bde603a4068",
+    "date": "2026-08-02",
+    "title": "The Twinkle in the Cloud",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-dd456bde603a4068/episode.mp3",
+    "length_bytes": 3098376,
+    "duration_seconds": 258.13,
+    "published_at": "2026-08-02T23:47:58.648400+00:00"
   }
 ]
