@@ -168,5 +168,15 @@
     "length_bytes": 3098376,
     "duration_seconds": 258.13,
     "published_at": "2026-08-02T23:47:58.648400+00:00"
+  },
+  {
+    "guid": "ep-6e431f2867783179",
+    "date": "2026-08-03",
+    "title": "A Picnic Just Because",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-6e431f2867783179/episode.mp3",
+    "length_bytes": 3214046,
+    "duration_seconds": 267.78,
+    "published_at": "2026-08-03T21:04:36.144810+00:00"
   }
 ]
