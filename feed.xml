@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Upside-Down and Just Right</title>
+<guid isPermaLink="false">ep-13bf5ea7fb5e5823</guid>
+<pubDate>Tue, 04 Aug 2026 21:42:36 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-13bf5ea7fb5e5823/episode.mp3" length="3001200" type="audio/mpeg"/>
+<itunes:duration>4:10</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>A Picnic Just Because</title>
 <guid isPermaLink="false">ep-6e431f2867783179</guid>
 <pubDate>Mon, 03 Aug 2026 21:04:36 +0000</pubDate>
