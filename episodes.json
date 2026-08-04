@@ -178,5 +178,15 @@
     "length_bytes": 3214046,
     "duration_seconds": 267.78,
     "published_at": "2026-08-03T21:04:36.144810+00:00"
+  },
+  {
+    "guid": "ep-13bf5ea7fb5e5823",
+    "date": "2026-08-04",
+    "title": "Upside-Down and Just Right",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-13bf5ea7fb5e5823/episode.mp3",
+    "length_bytes": 3001200,
+    "duration_seconds": 250.03,
+    "published_at": "2026-08-04T21:42:36.067372+00:00"
   }
 ]
