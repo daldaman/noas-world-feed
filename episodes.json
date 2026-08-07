@@ -188,5 +188,15 @@
     "length_bytes": 3001200,
     "duration_seconds": 250.03,
     "published_at": "2026-08-04T21:42:36.067372+00:00"
+  },
+  {
+    "guid": "ep-b2e067b04ac6ef78",
+    "date": "2026-08-07",
+    "title": "The Gentle Untangling",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-b2e067b04ac6ef78/episode.mp3",
+    "length_bytes": 3121259,
+    "duration_seconds": 260.03,
+    "published_at": "2026-08-07T22:00:14.039633+00:00"
   }
 ]
