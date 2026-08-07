@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Gentle Untangling</title>
+<guid isPermaLink="false">ep-b2e067b04ac6ef78</guid>
+<pubDate>Fri, 07 Aug 2026 22:00:14 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-b2e067b04ac6ef78/episode.mp3" length="3121259" type="audio/mpeg"/>
+<itunes:duration>4:20</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>Upside-Down and Just Right</title>
 <guid isPermaLink="false">ep-13bf5ea7fb5e5823</guid>
 <pubDate>Tue, 04 Aug 2026 21:42:36 +0000</pubDate>
