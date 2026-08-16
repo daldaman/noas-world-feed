@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Little Door</title>
+<guid isPermaLink="false">ep-361a85b3107ff57a</guid>
+<pubDate>Sun, 16 Aug 2026 00:26:53 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-361a85b3107ff57a/episode.mp3" length="4275140" type="audio/mpeg"/>
+<itunes:duration>5:56</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Gentle Untangling</title>
 <guid isPermaLink="false">ep-b2e067b04ac6ef78</guid>
 <pubDate>Fri, 07 Aug 2026 22:00:14 +0000</pubDate>
