@@ -198,5 +198,15 @@
     "length_bytes": 3121259,
     "duration_seconds": 260.03,
     "published_at": "2026-08-07T22:00:14.039633+00:00"
+  },
+  {
+    "guid": "ep-361a85b3107ff57a",
+    "date": "2026-08-15",
+    "title": "The Little Door",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-361a85b3107ff57a/episode.mp3",
+    "length_bytes": 4275140,
+    "duration_seconds": 356.180658,
+    "published_at": "2026-08-16T00:26:53.090771+00:00"
   }
 ]
