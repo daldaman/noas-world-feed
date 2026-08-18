@@ -208,5 +208,15 @@
     "length_bytes": 4275140,
     "duration_seconds": 356.180658,
     "published_at": "2026-08-16T00:26:53.090771+00:00"
+  },
+  {
+    "guid": "ep-19f996e624d8dd51",
+    "date": "2026-08-17",
+    "title": "The Bubble Under the Waves",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-19f996e624d8dd51/episode.mp3",
+    "length_bytes": 3609018,
+    "duration_seconds": 300.68,
+    "published_at": "2026-08-18T00:49:26.363515+00:00"
   }
 ]
