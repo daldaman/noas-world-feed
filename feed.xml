@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Bubble Under the Waves</title>
+<guid isPermaLink="false">ep-19f996e624d8dd51</guid>
+<pubDate>Tue, 18 Aug 2026 00:49:26 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-19f996e624d8dd51/episode.mp3" length="3609018" type="audio/mpeg"/>
+<itunes:duration>5:01</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Little Door</title>
 <guid isPermaLink="false">ep-361a85b3107ff57a</guid>
 <pubDate>Sun, 16 Aug 2026 00:26:53 +0000</pubDate>
