@@ -218,5 +218,15 @@
     "length_bytes": 3609018,
     "duration_seconds": 300.68,
     "published_at": "2026-08-18T00:49:26.363515+00:00"
+  },
+  {
+    "guid": "ep-5abb6ddfd8aa81ca",
+    "date": "2026-08-18",
+    "title": "The Deep Made Bright",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-5abb6ddfd8aa81ca/episode.mp3",
+    "length_bytes": 3649769,
+    "duration_seconds": 304.08,
+    "published_at": "2026-08-19T00:07:18.710941+00:00"
   }
 ]
