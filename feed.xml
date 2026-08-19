@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Deep Made Bright</title>
+<guid isPermaLink="false">ep-5abb6ddfd8aa81ca</guid>
+<pubDate>Wed, 19 Aug 2026 00:07:18 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-5abb6ddfd8aa81ca/episode.mp3" length="3649769" type="audio/mpeg"/>
+<itunes:duration>5:04</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Bubble Under the Waves</title>
 <guid isPermaLink="false">ep-19f996e624d8dd51</guid>
 <pubDate>Tue, 18 Aug 2026 00:49:26 +0000</pubDate>
