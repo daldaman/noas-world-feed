@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Snow That Danced</title>
+<guid isPermaLink="false">ep-c5eb93f23ccfa31d</guid>
+<pubDate>Mon, 24 Aug 2026 00:09:22 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-c5eb93f23ccfa31d/episode.mp3" length="3163264" type="audio/mpeg"/>
+<itunes:duration>4:24</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Deep Made Bright</title>
 <guid isPermaLink="false">ep-5abb6ddfd8aa81ca</guid>
 <pubDate>Wed, 19 Aug 2026 00:07:18 +0000</pubDate>
