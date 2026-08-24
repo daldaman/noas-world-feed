@@ -228,5 +228,15 @@
     "length_bytes": 3649769,
     "duration_seconds": 304.08,
     "published_at": "2026-08-19T00:07:18.710941+00:00"
+  },
+  {
+    "guid": "ep-c5eb93f23ccfa31d",
+    "date": "2026-08-23",
+    "title": "The Snow That Danced",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-c5eb93f23ccfa31d/episode.mp3",
+    "length_bytes": 3163264,
+    "duration_seconds": 263.53,
+    "published_at": "2026-08-24T00:09:22.942812+00:00"
   }
 ]
