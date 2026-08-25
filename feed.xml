@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Dance That Caught a Star</title>
+<guid isPermaLink="false">ep-7a9934d0730a1090</guid>
+<pubDate>Tue, 25 Aug 2026 23:33:44 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-7a9934d0730a1090/episode.mp3" length="3247901" type="audio/mpeg"/>
+<itunes:duration>4:31</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Snow That Danced</title>
 <guid isPermaLink="false">ep-c5eb93f23ccfa31d</guid>
 <pubDate>Mon, 24 Aug 2026 00:09:22 +0000</pubDate>
