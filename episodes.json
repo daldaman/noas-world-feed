@@ -248,5 +248,15 @@
     "length_bytes": 3247901,
     "duration_seconds": 270.58,
     "published_at": "2026-08-25T23:33:44.077349+00:00"
+  },
+  {
+    "guid": "ep-a4890ded2dfaf66a",
+    "date": "2026-08-27",
+    "title": "The World Full of Purring",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-a4890ded2dfaf66a/episode.mp3",
+    "length_bytes": 3295862,
+    "duration_seconds": 274.58,
+    "published_at": "2026-08-27T23:56:41.295094+00:00"
   }
 ]
