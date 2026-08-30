@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Napping Game</title>
+<guid isPermaLink="false">ep-ad6704391dd94f27</guid>
+<pubDate>Sun, 30 Aug 2026 01:03:17 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-ad6704391dd94f27/episode.mp3" length="3304639" type="audio/mpeg"/>
+<itunes:duration>4:35</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The World Full of Purring</title>
 <guid isPermaLink="false">ep-a4890ded2dfaf66a</guid>
 <pubDate>Thu, 27 Aug 2026 23:56:41 +0000</pubDate>
