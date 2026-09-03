@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>Tiny Among the Giants</title>
+<guid isPermaLink="false">ep-ed35a685195ba29b</guid>
+<pubDate>Thu, 03 Sep 2026 01:54:38 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-ed35a685195ba29b/episode.mp3" length="3544756" type="audio/mpeg"/>
+<itunes:duration>4:55</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Napping Game</title>
 <guid isPermaLink="false">ep-ad6704391dd94f27</guid>
 <pubDate>Sun, 30 Aug 2026 01:03:17 +0000</pubDate>
