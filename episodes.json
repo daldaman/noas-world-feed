@@ -278,5 +278,15 @@
     "length_bytes": 3544756,
     "duration_seconds": 295.33,
     "published_at": "2026-09-03T01:54:38.679390+00:00"
+  },
+  {
+    "guid": "ep-060aad3e29c74695",
+    "date": "2026-09-06",
+    "title": "The Golden Cup",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-060aad3e29c74695/episode.mp3",
+    "length_bytes": 3170474,
+    "duration_seconds": 264.13,
+    "published_at": "2026-09-07T01:12:36.664653+00:00"
   }
 ]
