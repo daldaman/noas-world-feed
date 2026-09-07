@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Golden Cup</title>
+<guid isPermaLink="false">ep-060aad3e29c74695</guid>
+<pubDate>Mon, 07 Sep 2026 01:12:36 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-060aad3e29c74695/episode.mp3" length="3170474" type="audio/mpeg"/>
+<itunes:duration>4:24</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>Tiny Among the Giants</title>
 <guid isPermaLink="false">ep-ed35a685195ba29b</guid>
 <pubDate>Thu, 03 Sep 2026 01:54:38 +0000</pubDate>
