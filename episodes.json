@@ -288,5 +288,15 @@
     "length_bytes": 3170474,
     "duration_seconds": 264.13,
     "published_at": "2026-09-07T01:12:36.664653+00:00"
+  },
+  {
+    "guid": "ep-9167f328babe3ba3",
+    "date": "2026-09-07",
+    "title": "The Making of the Queen's Own Things",
+    "description": "A gentle bedtime story.",
+    "audio_url": "https://github.com/daldaman/noas-world-feed/releases/download/ep-9167f328babe3ba3/episode.mp3",
+    "length_bytes": 6236831,
+    "duration_seconds": 519.68,
+    "published_at": "2026-09-08T00:16:48.399679+00:00"
   }
 ]
