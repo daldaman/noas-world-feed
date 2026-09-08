@@ -10,6 +10,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:block>Yes</itunes:block>
 <item>
+<title>The Making of the Queen&apos;s Own Things</title>
+<guid isPermaLink="false">ep-9167f328babe3ba3</guid>
+<pubDate>Tue, 08 Sep 2026 00:16:48 +0000</pubDate>
+<enclosure url="https://github.com/daldaman/noas-world-feed/releases/download/ep-9167f328babe3ba3/episode.mp3" length="6236831" type="audio/mpeg"/>
+<itunes:duration>8:40</itunes:duration>
+<description>A gentle bedtime story.</description>
+</item>
+<item>
 <title>The Golden Cup</title>
 <guid isPermaLink="false">ep-060aad3e29c74695</guid>
 <pubDate>Mon, 07 Sep 2026 01:12:36 +0000</pubDate>
